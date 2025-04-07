@@ -1,0 +1,10 @@
+   21  p val_a
+   22  p val_b
+   23  q
+   24  b calculator.c:5
+   25  r testcases/err_ops2.s
+   26  n
+   27  q
+   28  set logging file gdb_logs.txt
+   29  set loggin on
+   30  show commands
